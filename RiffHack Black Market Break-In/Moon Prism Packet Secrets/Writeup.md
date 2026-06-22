@@ -8,6 +8,8 @@ _"A late-night idol rehearsal leak includes one selfie and a whisper of intercep
 
 **Category:** Forensics
 
+[read on neocities?](https://chainsawcannon.neocities.org/posts/Riffhack-BMBI-Moon-Prism-Packet-Secrets)
+
 
 
 # The Challenge
