@@ -1,7 +1,7 @@
 # About The Challenge
 *"A Federation checkpoint AI loops the same authorization prompt while a damaged Chozo console hums behind it. Push past the guard and see what the access vault is hiding."*
 
-**CTF:** *RIFFHACK: Black Market Break-In(
+**CTF:** *RIFFHACK: Black Market Break-In*
 
 **Difficulty:** *Easy*
 
